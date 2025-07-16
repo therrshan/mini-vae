@@ -28,7 +28,7 @@ A PyTorch implementation of a **Variational Autoencoder (VAE)** trained on **MNI
 Smooth transitions between different digits:
 
 - **0 to 1 Interpolation**  
-  ![0 to 1 Interpolation](static/interpolation_0_to_1.gif)
+  ![0 to 1 Interpolation](https://github.com/therrshan/mini-vae/blob/main/static/interpolation_0_to_1.gif)
 
 - **2 to 7 Interpolation**  
-  ![2 to 7 Interpolation](static/interpolation_2_to_7.gif)
+  ![2 to 7 Interpolation](https://github.com/therrshan/mini-vae/blob/main/static/interpolation_2_to_7.gif)
